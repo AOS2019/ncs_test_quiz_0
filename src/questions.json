@@ -1,0 +1,44 @@
+[
+  {
+    "section": "general",
+    "question": "Which country is the largest producer of crude oil in Africa?",
+    "options": ["Nigeria", "Angola", "Libya", "Egypt", "Algeria"],
+    "answer": 0
+  },
+  {
+    "section": "history",
+    "question": "Who was the first President of Nigeria?",
+    "options": ["Nnamdi Azikiwe", "Tafawa Balewa", "Obafemi Awolowo", "Yakubu Gowon"],
+    "answer": 0
+  },
+  {
+    "section": "operations",
+    "question": "What is the full meaning of NCS?",
+    "options": ["Nigeria Customs Service", "National Civil Service", "Nigerian Corporate Society", "None of the above"],
+    "answer": 0
+  },
+  {
+    "section": "law",
+    "question": "Which Nigerian body is responsible for interpreting the constitution?",
+    "options": ["National Assembly", "Supreme Court", "Senate", "Police"],
+    "answer": 1
+  },
+  {
+    "section": "maths",
+    "question": "What is 12 × 8?",
+    "options": ["96", "88", "108", "86"],
+    "answer": 0
+  },
+  {
+    "section": "quantitative",
+    "question": "If a trader buys a bag of rice for ₦20,000 and sells it at ₦25,000, what is the profit percentage?",
+    "options": ["20%", "25%", "15%", "30%"],
+    "answer": 1
+  },
+  {
+    "section": "english",
+    "question": "Choose the correct spelling:",
+    "options": ["Recieve", "Receive", "Receeve", "Recive"],
+    "answer": 1
+  }
+]
